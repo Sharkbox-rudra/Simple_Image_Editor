@@ -41,7 +41,7 @@ pip install pillow
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Sharkbox-rudra/Simple_Image_Editor.git
 
 
 Navigate to the project directory:
